@@ -3,7 +3,7 @@ A react native application describing the basic functionalities of redux contain
 places and store it in the Redux Store
 
 ## Steps to run
-*1* clone the repository
-*2* Go to the root folder
-*3* Do npm install
-*4* react-native run-android (After installing basic react dependencies according to official documentation)
+* clone the repository
+* Go to the root folder
+* Do npm install
+* react-native run-android (After installing basic react dependencies according to official documentation)
